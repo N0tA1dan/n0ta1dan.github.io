@@ -30,7 +30,7 @@ body {
   width: 100vw;
   height: 40vh;
   font-family: 'Kanit', sans-serif;
-  font-size: clamp(15px, 1.5vw, 25px);
+  font-size: clamp(15px, 1vw, 25px);
   color: #5AC69F;
 }
 
